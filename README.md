@@ -2,7 +2,9 @@
 
 Tampermonkey userscript that adds external player buttons to Jellyfin Web.
 
-中文说明：本脚本适配 Jellyfin 10.11.6。更早版本未测试，不保证可用。
+[中文说明](README.zh-CN.md)
+
+Chinese note: this script targets Jellyfin 10.11.6. Older versions are not tested and may not work.
 
 ## Features
 - Adds Potplayer and Infuse launch buttons on item details pages.
@@ -18,6 +20,10 @@ Tampermonkey userscript that adds external player buttons to Jellyfin Web.
 ## Usage
 - Open a media item detail page in Jellyfin Web.
 - Click the external player button.
+
+## Original Author
+- Archerタツ
+- https://greasyfork.org/zh-CN/scripts/452398-jellyfinlaunchpotplayer
 
 ## License
 MIT
