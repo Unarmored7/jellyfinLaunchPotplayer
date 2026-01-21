@@ -2,6 +2,8 @@
 
 Tampermonkey userscript that adds external player buttons to Jellyfin Web.
 
+中文说明：本脚本适配 Jellyfin 10.11.6。更早版本未测试，不保证可用。
+
 ## Features
 - Adds Potplayer and Infuse launch buttons on item details pages.
 - Supports Jellyfin Web routing changes for item id parsing.
